@@ -1,5 +1,5 @@
 {
-  "name": "@luma-teeam/bip39",
+  "name": "@luma-team/bip39",
   "version": "3.0.5",
   "description": "Bitcoin BIP39: Mnemonic code for generating deterministic keys",
   "main": "src/index.js",
